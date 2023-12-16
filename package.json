@@ -1,0 +1,14 @@
+{
+  "name": "aws-lambda-function-template",
+  "version": "1.0.0",
+  "description": "A basic AWS Lambda Function Template in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1003.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
